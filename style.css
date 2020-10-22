@@ -1,0 +1,132 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+
+.navigation{
+    margin: 30px 0px 0px 30px;
+    
+    
+}
+
+.photo{
+    display: inline-block;
+}
+    
+
+
+
+li{
+    display: inline-block;
+    vertical-align: 0px;
+    margin: 0px 0px 0px 30px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+
+    
+}
+ul{
+    display: inline-block;
+    vertical-align: 5px;
+}
+
+.mtavari{
+    color: red;
+}
+
+.siaxleebi{
+    color: blue;
+}
+
+.kontaqti{
+    color: blue;
+}
+body{
+    max-width: 1370px;
+    width: 100%;
+}
+
+.square{
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    background: rgb(17, 17, 190);
+    margin: 50px 0px 0px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+
+.text{
+    margin: 5px 0px 0px 30px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-size: 20px;
+    color: blue;
+}
+
+.title{
+    margin: 20px 0px 0px 30px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-size: 19px;
+}
+
+.image{
+    margin: 20px 0px 0px 30px;
+    width: 310px;
+
+   
+}
+
+.content{
+    width: 680px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 0px 0px 20px;
+    letter-spacing: 1px;
+
+    
+    
+
+}
+
+
+
+
+.square2{
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    background: rgb(17, 17, 190);
+    margin: 100px 0px 0px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+    
+}
+
+.image2{
+    margin: 20px 0px 0px 30px;
+    width: 310px;
+}
+
+.logo{
+    width: 16px;
+    margin: 30px 0px 0px 30px;
+
+}
+
+.vl{
+    border-left: 1px solid blue;
+    height: 35px;
+    margin: -35px 0px 0px  100px;
+    
+}
+
+    .logo2{
+        width: 55px;
+        margin: -6rem 0px 0px 130px;
+        
+    }
+
+    a{
+        text-decoration: none;
+        color: red;
+    }

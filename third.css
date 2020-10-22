@@ -1,0 +1,80 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+.navigation1{
+    padding: 25px;
+    width: 100%;
+}
+
+.photo1{
+    vertical-align: -8px;
+    
+    
+}
+
+li{
+    display: inline-block;
+    margin: 0px 0px 0px 30px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+
+    
+    
+    
+}
+
+ul{
+    display: inline-block;
+    margin: 0px 0px 0px 20px;
+    
+}
+
+body{
+    max-width: 1370px;
+    width: 100%;
+    border: 1px solid grey;
+    margin: 30px 0px 0px 30px;
+}
+
+.mtavari{
+    color: red;
+}
+
+.siaxleebi{
+    color: blue;
+}
+
+.kontaqti{
+    color: blue;
+}
+
+.containment{
+    background-color:whitesmoke;
+    width: 1366px;
+    height: 570px;
+}
+
+.justsometext{
+    width: 295px;
+    padding: 78px;
+    margin: -150px 0px 0px 2px;
+
+    
+    
+    
+    
+    
+}
+
+
+
+.idkman{
+    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-size: 20px;
+    padding: 80px;
+    letter-spacing: 1px;
+    color: blue;
+    
+}
+
+.secondcontainment{
+    
+    width: 1300px;
+}
